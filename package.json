@@ -9,10 +9,10 @@
   "dependencies": {
     "discord.js-selfbot-v13": "^3.7.0",
     "@discordjs/voice": "^0.16.1",
-    "libsodium-wrappers": "^0.7.13",
+    "libsodium-wrappers": "^0.7.12",
     "opusscript": "^0.0.8"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
   }
 }
